@@ -1,0 +1,22 @@
+_repo: Checkmates-for-Three-Pieces_4542
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fishburne, William Brett
+    gutenberg_agent_id: '1496'
+    url: http://www.gutenberg.org/2009/agents/1496
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Chess'
+- GITenberg
+title: Checkmates for Three Pieces
+url: http://www.gutenberg.org/ebooks/4542
